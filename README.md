@@ -1,5 +1,4 @@
  <div align="center">
-<img src="assets/buildericon.png" style="border-radius:50%;border:1px solid black;" alt="SocialApp-rn" width="70">
 
 # SocialApp-React-Native
 
@@ -11,9 +10,6 @@
 Social Networking mobile app similar to Instagram in React Native.
 <br/>Native mobile application for my <a href='http://sociallappp.herokuapp.com/'>SocialApp-MERN</a> (web) project.
 <br/>Find its Github repo  <a href='https://github.com/shahshubh/socialApp-MERN'>here</a>
-
-
-## Download Apk File from <a href='https://socialapp-serverr.herokuapp.com/static/socialapp-rn-2.apk'>here</a>
 
 
 ## Features
