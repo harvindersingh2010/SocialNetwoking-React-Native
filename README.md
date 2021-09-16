@@ -1,13 +1,13 @@
  <div align="center">
 
-# SocialApp-React-Native
+# Social Networking React Native
 
 [![](https://img.shields.io/badge/Made_with-ReactNative-blue?style=for-the-badge&logo=react)](https://reactnative.dev/docs/getting-started)
 [![](https://img.shields.io/badge/Database-MongoDB-red?style=for-the-badge&logo=mongodb)](mongodb.com "MongoDB")
 [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-red?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/ "Visual Studio Code")
 
 </div>
-Social Networking mobile app similar to Instagram in React Native.
+HI My Name Is Harvinder Singh.  Please check my mobile app Social Networking mobile app similar to Instagram in React Native.
 
 ## Features
 
